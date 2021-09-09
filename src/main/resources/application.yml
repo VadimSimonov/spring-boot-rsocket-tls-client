@@ -1,0 +1,8 @@
+application:
+  name: Client RSocket
+  version: 1.0
+
+server:
+  url: "wss://localhost:7000"
+  port: 7777
+  address: 0.0.0.0
